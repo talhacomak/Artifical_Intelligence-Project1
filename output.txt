@@ -1,0 +1,11 @@
+10 2
+RR
+RP
+RR
+RR
+DL
+UL
+RL
+LL
+RL
+PL
